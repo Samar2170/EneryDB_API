@@ -1,0 +1,30 @@
+tools - gorilla/mux  psql plugins 
+
+EIA API:
+    Views:
+        All datasets
+        get data 
+        get dataset info
+
+        search dataset info 
+        get version
+        
+        
+
+
+PRODUCTION GRADE TIPS:
+    Dont change JSON key names
+    Write Http response codes
+    Content Type header
+    swagger for testing 
+
+Data Handling
+    Dont add anything
+
+
+dockerize it:
+    Elasticsearch
+    python-django
+    golang
+    postgresql
+    
